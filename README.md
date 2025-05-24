@@ -1,6 +1,6 @@
 # Remindly
 
-**Remindly** is a simple and modern Java desktop application that helps you keep track of your homework, assignments, and personal tasks. Built with **JavaFX** and **PostgreSQL**, Remindly lets you add, view, and complete tasks with due dates in an intuitive interface.
+**Remindly** is a simple and modern Java desktop application that helps you keep track of your homework, assignments, and personal tasks. Built with **JavaFX** and **PostgreSQL**, Remindly lets you add, view, and complete tasks
 
 ---
 
