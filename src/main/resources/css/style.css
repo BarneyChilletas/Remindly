@@ -1,0 +1,83 @@
+*{
+    -fx-font-size: 17px;
+    -fx-font-family: monospace;
+    -fx-text-fill: white;
+
+}
+
+.root {
+    -fx-text-fill: white;
+    -fx-background-color: #343434;
+}
+
+.form-container {
+    -fx-text-fill: black;
+    -fx-background-color: rgba(52, 52, 52, 0.73);
+    -fx-padding: 15;
+    -fx-border-color: #ccc;
+    -fx-border-radius: 8;
+    -fx-background-radius: 8;
+}
+
+.text-field, .text-area{
+    -fx-text-fill: black;
+    -fx-background-color: #f0f0f0;
+    -fx-background-radius: 8;
+    -fx-border-color: #ddd;
+    -fx-border-radius: 8;
+}
+#dueDatePicker{
+    -fx-background-color: rgba(52, 52, 52, 0.73);
+    -fx-text-fill: black !important;
+
+}
+
+
+
+.button {
+    -fx-background-color: #c7bf4c;
+    -fx-text-fill: white;
+    -fx-background-radius: 8;
+    -fx-padding: 6 12;
+    -fx-cursor: hand;
+}
+
+.button:hover {
+    -fx-background-color:#c7bf4c;
+    -fx-cursor: pointer;
+}
+
+
+
+.list-view {
+    -fx-background-color: #343434 ;
+    -fx-border-color: #ddd;
+
+
+    -fx-padding: 5px;
+    -fx-font-size: 14px;
+
+
+}
+
+.list-cell {
+    -fx-padding: 20px;
+    -fx-border-color: transparent transparent #eee transparent;
+
+    -fx-background-color: #343434;
+}
+
+.list-cell:filled:selected, .list-cell:focused:selected, .list-cell:hover{
+
+    -fx-background-color: rgba(243, 231, 65, 0.37);
+
+
+
+}
+
+
+#labelHeader{
+    -fx-font-size: 25px;
+    -fx-font-weight: bold;
+}
+
